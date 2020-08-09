@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phonenumber.iml" filepath="$PROJECT_DIR$/.idea/modules/phonenumber.iml" group="phonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phonenumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/phonenumber_main.iml" group="phonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phonenumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/phonenumber_test.iml" group="phonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start-phonenumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/start-phonenumber_main.iml" group="phonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start-phonenumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/start-phonenumber_test.iml" group="phonenumber" />
+    </modules>
+  </component>
+</project>
